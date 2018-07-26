@@ -1,0 +1,13 @@
+.row {
+  display: flex;
+  width: 50%;
+  margin: auto;
+}
+
+.grid-item {
+  background-color: gray;
+  color: #fff;
+  height: 100px;
+  flex: 1;
+  margin: 3px;
+}
